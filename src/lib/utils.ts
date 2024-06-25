@@ -41,6 +41,6 @@ export function constructMetadata({
       creator: "rbhcode",
     },
     icons,
-    metadataBase: new URL("https://casecobra-sooty.vercel.app/"),
+    metadataBase: new URL("https://caseexpress.onrender.com/"),
   };
 }
