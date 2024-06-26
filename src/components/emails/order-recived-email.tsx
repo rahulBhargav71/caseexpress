@@ -25,8 +25,8 @@ const OrderReceivedEmail = ({
 }) => {
   const baseUrl =
     process.env.NODE_ENV === "development"
-      ? "http://localhost:3000"
-      : "https://caseexpress.onrender.com/";
+      ? "https://caseexpress.onrender.com"
+      : "http://localhost:3000";
 
   return (
     <Html>
